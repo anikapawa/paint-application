@@ -113,6 +113,8 @@ In a local or Codio environment:
 make build
 make paint
 
+---
+
 Then open the paint application in the provided GUI window.
 
 ## Author
