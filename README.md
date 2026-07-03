@@ -112,10 +112,11 @@ In a local or Codio environment:
 ```bash
 make build
 make paint
-
----
+```
 
 Then open the paint application in the provided GUI window.
+
+---
 
 ## Author
 Anika Pawa
